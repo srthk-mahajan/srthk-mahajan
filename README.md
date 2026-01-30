@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a cybersecurity student and developer focused on web-based <br>      technologies, with a strong interest in offensive web application security. <br>🌱 I enjoy understanding systems end-to-end from application logic <br>      and APIs to networks and security internals and applying that <br>      knowledge to identify and exploit real-world vulnerabilities.<br>💬 Ask me about web app security, bug bounty workflows, APIs, <br>      JavaScript, and networking fundamentals.<br>⚡ Fun fact: I understand vulnerabilities best by building the feature <br>      before breaking it.
+🔭 I’m a cybersecurity student and developer focused on web-based technologies, with a strong interest in offensive web application security. <br>🌱 I enjoy understanding systems end-to-end from application logic and APIs to networks and security internals and applying that knowledge to identify and exploit real-world vulnerabilities.<br>💬 Ask me about web app security, bug bounty workflows, APIs, JavaScript, and networking fundamentals.<br>⚡ Fun fact: I understand vulnerabilities best by building the feature before breaking it.
 
 
 ## 🌐 Socials:
